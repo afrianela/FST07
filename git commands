@@ -1,0 +1,8 @@
+Initializing git Repository
+-git init 
+
+Add to out staging area
+-git add .
+
+Making it another version
+-git commit -m "Description"
