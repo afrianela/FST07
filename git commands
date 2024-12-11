@@ -30,3 +30,9 @@ List of all the branches
 Switch to another branch
 -git checkout "branchname"
 
+Meriging Master to branch
+-git merge "branchname"
+
+Delete a branch
+-git branch -d "branchname"
+
